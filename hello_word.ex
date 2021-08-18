@@ -1,6 +1,6 @@
-defmodule HelloWord do
+defmodule HelloWorld do
 
   def main do
-    :hello_word
+    :hello_world
   end
 end
